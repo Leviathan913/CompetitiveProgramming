@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Leviathan913/CompetitiveProgramming/tree/master/1920-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Leviathan913/CompetitiveProgramming/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
